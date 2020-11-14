@@ -16,7 +16,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rafacoelho4/cra-template-rafa",
-    "directory": "/rafa"
+    "directory": "/"
   },
   "scripts": {
     "start": "react-scripts start",
