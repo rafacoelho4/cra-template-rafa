@@ -6,7 +6,7 @@
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, 'Montserrat', 'Raleway', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -14,14 +14,38 @@ body {
 }
 
 :root {
-  --color-background: #e7e7e7;
-  --color-primary: #786742;
+  --color-background: #27292b;
+
+  --color-primary: #e69d00;
   --color-secondary: #3F3522;
   --color-tertiary: #590004;
-  --color-text: #202020;
-  --color-light-text: #5e5e5e;
+
+  --color-text: #e9e9e9;
+  --color-light-text: #c5c5c5;
 
   --size-title: 40px;
   --size-subtitle: 26px;
   --size-text: 18px;
+
+  --font-title: 'Montserrat', sans-serif;
+  --font-text: 'Raleway', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--color-background); 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary); 
 }

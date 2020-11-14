@@ -1,9 +1,9 @@
 {
   "name": "cra-template-rafa",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Rafael Coelho Monte Alto <rafaelmalto@hotmail.com",
   "main": "template.json",
-  "description": "Made by Rafael Coelho",
+  "description": "React App by Rafael Coelho",
   "keywords": [
     "react",
     "create-react-app",
@@ -25,14 +25,10 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.0",
-    "web-vitals": "^0.2.4"
+    "react-scripts": "4.0.0"
   },
   "eslintConfig": {
     "extends": [

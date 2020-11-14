@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-const Test = () => <h1>Hello Rafa!</h1>
+import Home from './Home';
 
 const Routes = () => {
     return(
         <BrowserRouter>
             <Switch>
-                <Route exact path="/" component={Test} />
+                <Route exact path="/" component={Home} />
             </Switch>
         </BrowserRouter>
     );
