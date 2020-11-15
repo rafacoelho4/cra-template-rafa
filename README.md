@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+<h1 align="center">
+    <img alt="Rafa" title="Rafa" width="100px" src="./template/src/lamp.png" />
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Meu próprio ambiente de desenvolvimento de uma aplicação ReactJS baseada em [Create React App](https://github.com/facebook/create-react-app). <br />
+O pacote está disponível em [cra-template-rafa](https://www.npmjs.com/package/cra-template-rafa).
+
+
+> by Rafael Coelho Monte Alto
+
 
 ## Available Scripts
 
