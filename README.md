@@ -12,16 +12,16 @@ O pacote está disponível em [cra-template-rafa](https://www.npmjs.com/package/
 Para criar uma aplicação base em React com este template, basta usar o seguinte comando:
 
 Usando **npm**:<br />
-```npx create-react-app myapp --template rafa```
+#### ```npx create-react-app myapp --template rafa```
 
 Usando **yarn**:<br />
-```yarn create react-app myapp --template rafa```
+#### ```yarn create react-app myapp --template rafa```
 
 ## 💻 Scripts disponíveis
 
 No diretório do projeto, você pode rodar os comandos:
 
-### `yarn start`
+#### ```yarn start```
 
 Roda a aplicação no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para ver no navegador.
