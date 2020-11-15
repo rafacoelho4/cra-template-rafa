@@ -5,7 +5,26 @@
 ## O Projeto
 
 Um ambiente de desenvolvimento de uma aplicação ReactJS baseada em [Create React App](https://github.com/facebook/create-react-app).\
-O pacote está disponível em [cra-template-rafa](https://www.npmjs.com/package/cra-template-rafa).
+O pacote está disponível em [cra-template-rafa](https://www.npmjs.com/package/cra-template-rafa).\
+
+Vem incluido no pacote:\
+```
+README.md
+package.json
+gitignore
+public/
+  index.html
+  manifest.json
+  icon/
+src/
+  index.js
+  index.css
+  App.js
+  Routes.js
+  Home.js
+  Home.css
+  lamp.png
+```
 
 ## Usando o template
 
