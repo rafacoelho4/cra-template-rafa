@@ -11,7 +11,7 @@ Vem incluido no pacote:
 ```
 README.md
 package.json
-gitignore
+.gitignore
 public/
   index.html
   manifest.json
