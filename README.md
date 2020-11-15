@@ -1,8 +1,10 @@
-<h1 align="center">
-    <img alt="Rafa" title="Rafa" width="100px" src="./template/src/lamp.png" />
-</h1>
+<p align="center">
+    <img alt="Rafa" title="Rafa" width="120px" src="./template/src/lamp.png" />
+</p>
 
-Meu próprio ambiente de desenvolvimento de uma aplicação ReactJS baseada em [Create React App](https://github.com/facebook/create-react-app). <br />
+### O Projeto
+
+Um ambiente de desenvolvimento de uma aplicação ReactJS baseada em [Create React App](https://github.com/facebook/create-react-app).\
 O pacote está disponível em [cra-template-rafa](https://www.npmjs.com/package/cra-template-rafa).
 
 ### Usando o template
