@@ -9,6 +9,7 @@
     "create-react-app",
     "cra-template"
   ],
+  "license": "MIT",
   "files": [
     "template",
     "template.json"
