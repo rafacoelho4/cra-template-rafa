@@ -9,7 +9,7 @@
 
 ## 🚀 The Project
 
-A development environment of a ReactJS application based on [Create React App](https://github.com/facebook/create-react-app).\
+A development environment of a ReactJS application based on [Create React App](https://github.com/facebook/create-react-app).
 
 Includes:
 ```
@@ -76,5 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 <p align="center">
     Made with ❤ by Rafael Coelho Monte Alto
 </p>
-
-> Made with ❤ by Rafael Coelho Monte Alto
