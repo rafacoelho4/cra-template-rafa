@@ -2,6 +2,11 @@
     <img alt="Rafa" title="Rafa" width="120px" src="./template/src/lamp.png" />
 </p>
 
+<p align="center">
+   <img src="https://img.shields.io/npm/v/cra-template-rafa?color=ff7207&style=flat-square" />
+   <img src="https://img.shields.io/npm/dw/cra-template-rafa?color=1460F4&style=flat-square" />
+</p>
+
 ## 🚀 The Project
 
 A development environment of a ReactJS application based on [Create React App](https://github.com/facebook/create-react-app).\
@@ -65,5 +70,11 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## ☁ Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+---
+
+<p align="center">
+    Made with ❤ by Rafael Coelho Monte Alto
+</p>
 
 > Made with ❤ by Rafael Coelho Monte Alto
