@@ -4,7 +4,7 @@
 
 <p align="center">
    <img src="https://img.shields.io/npm/v/cra-template-rafa?color=ff7207&style=flat-square" />
-   <img src="https://img.shields.io/npm/dw/cra-template-rafa?color=1460F4&style=flat-square" />
+   <img src="https://img.shields.io/npm/dt/cra-template-rafa?color=1460F4&style=flat-square" />
 </p>
 
 ## 🚀 The Project
